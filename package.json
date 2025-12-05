@@ -1,0 +1,28 @@
+{
+  "name": "dsa-notes-and-solutions",
+  "version": "1.0.0",
+  "description": "Daily DSA in JavaScript: one problem a day with clear explanations, complexity, and tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "fmt": "prettier --write \"src/**/*.js\" \"tests/**/*.js\" \"notes/**/*.md\"",
+    "lint": "eslint src/**/*.js tests/**/*.js"
+  },
+  "keywords": [
+    "dsa",
+    "data-structures",
+    "algorithms",
+    "javascript",
+    "interview",
+    "leetcode"
+  ],
+  "author": "Rohit Jaiswal",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.0",
+    "eslint": "^8.42.0",
+    "jest": "^29.5.0",
+    "prettier": "^2.8.8"
+  }
+}
