@@ -43,8 +43,8 @@ Each day I add:
 - [x] Hash Map
 - [x] Two Pointers
 - [ ] Sliding Window
-- [ x Linked List
-- [ x] Stack / Queue
+- [x] Linked List
+- [x] Stack / Queue
 - [ ] Trees / BST
 - [ ] Heaps
 - [ ] Graphs
