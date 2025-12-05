@@ -44,7 +44,7 @@ Each day I add:
 - [x] Two Pointers
 - [ ] Sliding Window
 - [ x Linked List
-- [ x Stack / Queue
+- [ x] Stack / Queue
 - [ ] Trees / BST
 - [ ] Heaps
 - [ ] Graphs
