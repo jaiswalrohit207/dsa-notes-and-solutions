@@ -20,6 +20,7 @@ Each day I add:
 | Day | ID | Problem | Topic | Difficulty | Notes | Code | Test |
 |-----|----|---------|-------|------------|-------|------|------|
 | 001 | 0001 | Two Sum | Arrays | Easy | [Notes](notes/0001-two-sum.md) | [Code](src/arrays/0001-two-sum.js) | [Test](tests/arrays/0001-two-sum.test.js) |
+| 002 | 0002 | Best Time to Buy/Sell | Arrays | Easy | [Notes](notes/0002-best-time-to-buy-sell-stock.md) | [Code](src/arrays/0002-best-time-to-buy-sell-stock.js) | [Test](tests/arrays/0002-best-time-to-buy-sell-stock.test.js) |
 
 ## Topics Checklist
 - [x] Arrays
